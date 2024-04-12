@@ -1,0 +1,9 @@
+{
+  "lumoImports" : [ "typography", "color", "spacing", "badge", "utility" ],
+  "assets" : {
+    "@fontsource/pt-serif" : {
+      "*.css" : "@fontsource/pt-serif",
+      "files/*" : "@fontsource/pt-serif/files"
+    }
+  }
+}
